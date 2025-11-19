@@ -78,7 +78,7 @@ El frontend estará disponible en http://localhost:3000
 - No almacenar datos personales de los usuarios.
 - Auditar y eliminar información sensible desde el panel de administración.
 - Mostrar la fuente de la información cuando sea posible.
-- Actualizar y reentrenar el agente con nuevos documentos de forma controlada.
+- Actualizar y reentrenar el agente con nuevos documentos de forma controlada
 
 ## Métricas y Auditoría
 - Latencia de respuesta por consulta
