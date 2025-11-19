@@ -1,0 +1,27 @@
+# Node
+frontend/node_modules/
+frontend/build/
+
+# Python
+backend/__pycache__/
+backend/*.pyc
+backend/.env
+backend/.venv/
+
+# VSCode
+.vscode/
+
+# Data
+*.db
+*.sqlite3
+data/pdfs/*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# FAISS index
+backend/vectors.index*
