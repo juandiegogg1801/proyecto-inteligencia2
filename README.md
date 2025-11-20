@@ -86,4 +86,4 @@ El frontend estará disponible en http://localhost:3000
 - Visualización en tablas y gráficos
 
 ## Contacto y Contribución
-Para sugerencias, mejoras o reportes, contactar a la Academia Boyacense de Historia.
+Para sugerencias, mejoras o reportes, contactar a la Academia Boyacense de Historia..
